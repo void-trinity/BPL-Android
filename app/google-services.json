@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731865137058",
+    "firebase_url": "https://byara-premier-league.firebaseio.com",
+    "project_id": "byara-premier-league",
+    "storage_bucket": "byara-premier-league.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731865137058:android:df3a1d93c42d4e0c873cfb",
+        "android_client_info": {
+          "package_name": "com.anotherdimension.bpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731865137058-i108pbhmlvr0vjdfu747atnsgmihgij7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anotherdimension.bpl",
+            "certificate_hash": "0f28977a7e38ba40b81ae41da6247ca60d0a357d"
+          }
+        },
+        {
+          "client_id": "731865137058-99ipn5poaibalauaerfcn93t61ta6emm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdA2ugkqtPwgPxu7_Jrh-dQ5QJ3n20PSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731865137058-99ipn5poaibalauaerfcn93t61ta6emm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

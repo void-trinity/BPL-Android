@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_leaderboard"
+        android:title="Leaderboard"
+        android:icon="@drawable/ic_leaderboard" />
+    <item android:id="@+id/menu_events"
+        android:title="Events"
+        android:icon="@drawable/ic_game" />
+    <item android:id="@+id/menu_profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_person" />
+</menu>
